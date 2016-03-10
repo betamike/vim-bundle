@@ -1,0 +1,33 @@
+[submodule "SimpylFold"]
+	path = SimpylFold
+	url = https://github.com/tmhedberg/SimpylFold.git
+[submodule "YouCompleteMe"]
+	path = YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "command-t"]
+	path = command-t
+	url = https://github.com/wincent/command-t.git
+[submodule "molokai"]
+	path = molokai
+	url = https://github.com/tomasr/molokai.git
+[submodule "nerdtree"]
+	path = nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "syntastic"]
+	path = syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "vim-airline"]
+	path = vim-airline
+	url = https://github.com/bling/vim-airline.git
+[submodule "vim-gitgutter"]
+	path = vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter.git
+[submodule "vim-go"]
+	path = vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule "vim-protobuf"]
+	path = vim-protobuf
+	url = https://github.com/uarun/vim-protobuf.git
+[submodule "vim-pathogen"]
+	path = vim-pathogen
+	url = https://github.com/tpope/vim-pathogen.git
