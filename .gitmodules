@@ -1,9 +1,3 @@
-[submodule "SimpylFold"]
-	path = SimpylFold
-	url = https://github.com/tmhedberg/SimpylFold.git
-[submodule "YouCompleteMe"]
-	path = YouCompleteMe
-	url = https://github.com/Valloric/YouCompleteMe.git
 [submodule "molokai"]
 	path = molokai
 	url = https://github.com/tomasr/molokai.git
