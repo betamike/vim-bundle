@@ -31,9 +31,6 @@
 [submodule "deoplete.nvim"]
 	path = deoplete.nvim
 	url = https://github.com/Shougo/deoplete.nvim.git
-[submodule "deoplete-go"]
-	path = deoplete-go
-	url = https://github.com/zchee/deoplete-go.git
 [submodule "Zenburn"]
 	path = Zenburn
 	url = https://github.com/jnurmine/Zenburn.git
@@ -43,3 +40,15 @@
 [submodule "gruvbox"]
 	path = gruvbox
 	url = https://github.com/morhetz/gruvbox.git
+[submodule "rust.vim"]
+	path = rust.vim
+	url = https://github.com/rust-lang/rust.vim.git
+[submodule "deoplete-go"]
+	path = deoplete-go
+	url = https://github.com/zchee/deoplete-go.git
+[submodule "deoplete-rust"]
+	path = deoplete-rust
+	url = https://github.com/sebastianmarkow/deoplete-rust.git
+[submodule "tmux-complete.vim"]
+	path = tmux-complete.vim
+	url = https://github.com/wellle/tmux-complete.vim.git
