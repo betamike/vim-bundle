@@ -52,3 +52,6 @@
 [submodule "tmux-complete.vim"]
 	path = tmux-complete.vim
 	url = https://github.com/wellle/tmux-complete.vim.git
+[submodule "vimux"]
+	path = vimux
+	url = https://github.com/benmills/vimux.git
