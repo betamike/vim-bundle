@@ -55,3 +55,15 @@
 [submodule "vimux"]
 	path = vimux
 	url = https://github.com/benmills/vimux.git
+[submodule "bazel.vim"]
+	path = bazel.vim
+	url = https://github.com/durandj/bazel.vim.git
+[submodule "vim-maktaba"]
+	path = vim-maktaba
+	url = https://github.com/google/vim-maktaba.git
+[submodule "vim-bazel"]
+	path = vim-bazel
+	url = https://github.com/bazelbuild/vim-bazel.git
+[submodule "fzf.vim"]
+	path = fzf.vim
+	url = https://github.com/junegunn/fzf.vim.git
