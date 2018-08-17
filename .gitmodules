@@ -94,3 +94,6 @@
 [submodule "vim-signify"]
 	path = vim-signify
 	url = https://github.com/mhinz/vim-signify.git
+[submodule "deoplete-jedi"]
+	path = deoplete-jedi
+	url = https://github.com/zchee/deoplete-jedi.git
