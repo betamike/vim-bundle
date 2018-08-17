@@ -31,9 +31,6 @@
 [submodule "deoplete.nvim"]
 	path = deoplete.nvim
 	url = https://github.com/Shougo/deoplete.nvim.git
-[submodule "deoplete-jedi"]
-	path = deoplete-jedi
-	url = https://github.com/zchee/deoplete-jedi.git
 [submodule "gruvbox"]
 	path = gruvbox
 	url = https://github.com/morhetz/gruvbox.git
