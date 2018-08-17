@@ -91,3 +91,9 @@
 [submodule "limelight.vim"]
 	path = limelight.vim
 	url = https://github.com/junegunn/limelight.vim.git
+[submodule "LanguageClient-neovim"]
+	path = LanguageClient-neovim
+	url = https://github.com/autozimu/LanguageClient-neovim.git
+[submodule "vim-signify"]
+	path = vim-signify
+	url = https://github.com/mhinz/vim-signify.git
